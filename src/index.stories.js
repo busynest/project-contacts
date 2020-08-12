@@ -7,4 +7,4 @@ export default {
   },
 };
 
-export const story1 = () => html` <my-counter></my-counter> `;
+export const contacts = () => html` <contact-list></contact-list> `;

@@ -1,11 +1,18 @@
 [![edit-in-WebComponents.dev](https://webcomponents.dev/assets/ext/edit_in_wcd.svg)](https://webcomponents.dev/edit/SLH7SGmibEvsE4lFuIfy)
-# LitElement Starter Kit
+
+# Project Contacts
 
 ### Starter kit result
 
 ```showcase
-  <my-counter></my-counter>
+  <project-contacts></project-contacts>
 ```
+
+### Objectives
+
+- show uncategorized contacts
+- show contacts by project
+- show contacts by trade
 
 ### Links
 
